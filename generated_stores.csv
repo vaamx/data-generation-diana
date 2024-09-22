@@ -1,0 +1,525 @@
+STORE_NAME,STORE_DESCRIPTION,ADDRESS,CONTACT_NAME,CONTACT_EMAIL,CONTACT_PHONE,REGION_ID
+Super Selectos,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial Ahuachapán,John Doe,email@example.com,+503 7000 0000,1
+Maxi Despensa,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial Ahuachapán,John Doe,email@example.com,+503 7000 0000,1
+El Ahorrador Santa Maria Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial Apaneca,John Doe,email@example.com,+503 7000 0000,101
+La Esquina Los Primos Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial Apaneca,John Doe,email@example.com,+503 7000 0000,101
+Mini Market Los Ángeles Sur,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, con amplio estacionamiento.",Residencial Atiquizaya,John Doe,email@example.com,+503 7000 0000,201
+El Ahorrador El Rosario Este,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial Atiquizaya,John Doe,email@example.com,+503 7000 0000,201
+La Despensa La Esperanza Central,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, cerca de otras tiendas.",Residencial Concepción de Ataco,John Doe,email@example.com,+503 7000 0000,2
+Mayorista Santa Clara Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial Concepción de Ataco,John Doe,email@example.com,+503 7000 0000,2
+Super Selectos,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial El Refugio,John Doe,email@example.com,+503 7000 0000,3
+Abarrotes Los Primos Este,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, sin estacionamiento.",Residencial El Refugio,John Doe,email@example.com,+503 7000 0000,3
+Tienda Familiar El Rosario Express,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Guaymango,John Doe,email@example.com,+503 7000 0000,102
+Mercadito El Buen Gusto Central,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con amplio estacionamiento.",Residencial Guaymango,John Doe,email@example.com,+503 7000 0000,102
+La Despensa La Fortuna Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, cerca de otras tiendas.",Residencial Jujutla,John Doe,email@example.com,+503 7000 0000,103
+El Ahorrador San Carlos Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, sin estacionamiento.",Residencial Jujutla,John Doe,email@example.com,+503 7000 0000,103
+Supermercado Santa Clara Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con mucha afluencia de gente.",Residencial San Francisco Menéndez,John Doe,email@example.com,+503 7000 0000,202
+Distribuidora Santa Maria Central,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial San Francisco Menéndez,John Doe,email@example.com,+503 7000 0000,202
+Despensa de Don Juan,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, sin estacionamiento.",Residencial San Lorenzo,John Doe,email@example.com,+503 7000 0000,104
+Dollar City,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con poca afluencia de gente.",Residencial San Lorenzo,John Doe,email@example.com,+503 7000 0000,104
+Super El Buen Gusto Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con amplio estacionamiento.",Residencial San Pedro Puxtla,John Doe,email@example.com,+503 7000 0000,4
+El Rinconcito Nuevo Mundo Oeste,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial San Pedro Puxtla,John Doe,email@example.com,+503 7000 0000,4
+Supermercado Nuevo Mundo Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Tacuba,John Doe,email@example.com,+503 7000 0000,301
+Punto de Venta Los Primos Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Tacuba,John Doe,email@example.com,+503 7000 0000,301
+Mercado de la Fe Santa Clara Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, cerca de otras tiendas.",Residencial Turín,John Doe,email@example.com,+503 7000 0000,401
+Punto de Venta San Jose Express,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, sin estacionamiento.",Residencial Turín,John Doe,email@example.com,+503 7000 0000,401
+El Buen Precio El Rosario Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial Candelaria de la Frontera,John Doe,email@example.com,+503 7000 0000,105
+Maxi Ahorro El Sol Sur,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Candelaria de la Frontera,John Doe,email@example.com,+503 7000 0000,105
+El Mercadillo San Carlos Express,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial Chalchuapa,John Doe,email@example.com,+503 7000 0000,106
+Supermercado Nuevo Mundo Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, aislada de otros comercios.",Residencial Chalchuapa,John Doe,email@example.com,+503 7000 0000,106
+Maxi Despensa,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Coatepeque,John Doe,email@example.com,+503 7000 0000,302
+Super Selectos,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial Coatepeque,John Doe,email@example.com,+503 7000 0000,302
+Distribuidora San Francisco Este,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, aislada de otros comercios.",Residencial El Congo,John Doe,email@example.com,+503 7000 0000,402
+Maxi Ahorro San Carlos Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con áreas verdes cercanas.",Residencial El Congo,John Doe,email@example.com,+503 7000 0000,402
+Mercado Popular Santa Maria Central,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial El Porvenir,John Doe,email@example.com,+503 7000 0000,403
+Plaza Market La Fortuna Central,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con mucha afluencia de gente.",Residencial El Porvenir,John Doe,email@example.com,+503 7000 0000,403
+Super Precio Los Ángeles Sur,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Masahuat,John Doe,email@example.com,+503 7000 0000,404
+Mercadito La Esperanza Del Pueblo,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial Masahuat,John Doe,email@example.com,+503 7000 0000,404
+Tienda Santa Maria Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con poca afluencia de gente.",Residencial Metapán,John Doe,email@example.com,+503 7000 0000,203
+Abarrotes Los Ángeles Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial Metapán,John Doe,email@example.com,+503 7000 0000,203
+Mercado Local La Unión Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial San Antonio Pajonal,John Doe,email@example.com,+503 7000 0000,5
+Tiendita El Progreso Central,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial San Antonio Pajonal,John Doe,email@example.com,+503 7000 0000,5
+Abarrotes La Fortuna Central,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con amplio estacionamiento.",Residencial San Sebastián Salitrillo,John Doe,email@example.com,+503 7000 0000,405
+Mercado de la Fe Los Ángeles Central,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial San Sebastián Salitrillo,John Doe,email@example.com,+503 7000 0000,405
+Bodega de Descuentos El Buen Gusto Express,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial Santa Ana,John Doe,email@example.com,+503 7000 0000,107
+Maxi Ahorro Los Primos Sur,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial Santa Ana,John Doe,email@example.com,+503 7000 0000,107
+Mercado Popular La Esperanza Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Santa Rosa Guachipilín,John Doe,email@example.com,+503 7000 0000,108
+Super Oferta San Francisco Central,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial Santa Rosa Guachipilín,John Doe,email@example.com,+503 7000 0000,108
+Wal-Mart,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial Santiago de la Frontera,John Doe,email@example.com,+503 7000 0000,109
+Maxi Ahorro Buen Precio Central,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, sin estacionamiento.",Residencial Santiago de la Frontera,John Doe,email@example.com,+503 7000 0000,109
+Mercadito La Fe Express,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Texistepeque,John Doe,email@example.com,+503 7000 0000,303
+Punto de Venta El Rosario Este,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con mucha afluencia de gente.",Residencial Texistepeque,John Doe,email@example.com,+503 7000 0000,303
+Dollar City,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Acajutla,John Doe,email@example.com,+503 7000 0000,406
+La Bodega La Fe Central,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, sin estacionamiento.",Residencial Acajutla,John Doe,email@example.com,+503 7000 0000,406
+Supermercado Europa,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con mucha afluencia de gente.",Residencial Armenia,John Doe,email@example.com,+503 7000 0000,6
+Mercadito La Esperanza Central,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial Armenia,John Doe,email@example.com,+503 7000 0000,6
+Punto de Venta Santa Maria Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con amplio estacionamiento.",Residencial Caluco,John Doe,email@example.com,+503 7000 0000,204
+Mercado Popular El Centro Sur,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Caluco,John Doe,email@example.com,+503 7000 0000,204
+Abarrotes Nuevo Mundo Express,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Cuisnahuat,John Doe,email@example.com,+503 7000 0000,7
+Tienda El Centro Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial Cuisnahuat,John Doe,email@example.com,+503 7000 0000,7
+Maxi Despensa,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, con poca afluencia de gente.",Residencial Izalco,John Doe,email@example.com,+503 7000 0000,110
+Mercado Local Los Ángeles Norte,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con mucha afluencia de gente.",Residencial Izalco,John Doe,email@example.com,+503 7000 0000,110
+El Mercadillo El Buen Gusto Central,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con amplio estacionamiento.",Residencial Juayúa,John Doe,email@example.com,+503 7000 0000,304
+La Bodega Santa Maria Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Juayúa,John Doe,email@example.com,+503 7000 0000,304
+Super La Fe Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial Nahuizalco,John Doe,email@example.com,+503 7000 0000,305
+El Mercadillo El Milagro Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, cerca de otras tiendas.",Residencial Nahuizalco,John Doe,email@example.com,+503 7000 0000,305
+Supermercado Europa,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial Nahulingo,John Doe,email@example.com,+503 7000 0000,407
+Maxi Ahorro El Sol Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, con poca afluencia de gente.",Residencial Nahulingo,John Doe,email@example.com,+503 7000 0000,407
+Mercado El Centro La Unión Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, cerca de otras tiendas.",Residencial Salcoatitán,John Doe,email@example.com,+503 7000 0000,205
+Punto de Venta El Ahorro Este,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Salcoatitán,John Doe,email@example.com,+503 7000 0000,205
+Comercial San Jose Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, con áreas verdes cercanas.",Residencial San Antonio del Monte,John Doe,email@example.com,+503 7000 0000,206
+La Despensa Santa Clara Express,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con áreas verdes cercanas.",Residencial San Antonio del Monte,John Doe,email@example.com,+503 7000 0000,206
+Mercado El Centro Nuevo Mundo Central,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con amplio estacionamiento.",Residencial San Julián,John Doe,email@example.com,+503 7000 0000,408
+Tienda de la Esquina San Carlos Sur,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial San Julián,John Doe,email@example.com,+503 7000 0000,408
+Mercado Local Santa Clara Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Santa Catarina Masahuat,John Doe,email@example.com,+503 7000 0000,111
+La Tiendona San Carlos Express,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Santa Catarina Masahuat,John Doe,email@example.com,+503 7000 0000,111
+La Despensa La Unión Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, con mucha afluencia de gente.",Residencial Santa Isabel Ishuatán,John Doe,email@example.com,+503 7000 0000,306
+La Tiendona La Esperanza Express,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Santa Isabel Ishuatán,John Doe,email@example.com,+503 7000 0000,306
+Super Precio San Carlos Express,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial Santo Domingo de Guzmán,John Doe,email@example.com,+503 7000 0000,207
+Mayorista El Milagro Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, con amplio estacionamiento.",Residencial Santo Domingo de Guzmán,John Doe,email@example.com,+503 7000 0000,207
+La Despensa La Unión Sur,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Sonsonate,John Doe,email@example.com,+503 7000 0000,8
+La Bodega La Fe Este,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Sonsonate,John Doe,email@example.com,+503 7000 0000,8
+Tienda Santa Maria Norte,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con mucha afluencia de gente.",Residencial Sonzacate,John Doe,email@example.com,+503 7000 0000,112
+Super Precio El Buen Gusto Express,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial Sonzacate,John Doe,email@example.com,+503 7000 0000,112
+La Central La Esperanza Express,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Agua Caliente,John Doe,email@example.com,+503 7000 0000,9
+La Bodega Santa Clara Norte,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, con mucha afluencia de gente.",Residencial Agua Caliente,John Doe,email@example.com,+503 7000 0000,9
+El Ahorrador San Carlos Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Arcatao,John Doe,email@example.com,+503 7000 0000,208
+Maxi Despensa,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial Arcatao,John Doe,email@example.com,+503 7000 0000,208
+El Ahorrador El Milagro Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial Azacualpa,John Doe,email@example.com,+503 7000 0000,113
+El Ahorrador Santa Maria Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con amplio estacionamiento.",Residencial Azacualpa,John Doe,email@example.com,+503 7000 0000,113
+El Rinconcito Buen Precio Del Pueblo,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Cancasque,John Doe,email@example.com,+503 7000 0000,307
+La Central Los Ángeles Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, con amplio estacionamiento.",Residencial Cancasque,John Doe,email@example.com,+503 7000 0000,307
+Maxi Despensa,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial Chalatenango,John Doe,email@example.com,+503 7000 0000,409
+Comercial El Centro Central,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Chalatenango,John Doe,email@example.com,+503 7000 0000,409
+Abarrotes Los Primos Este,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Citalá,John Doe,email@example.com,+503 7000 0000,209
+Supermercado La Unión Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Citalá,John Doe,email@example.com,+503 7000 0000,209
+La Despensa El Milagro Oeste,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial Comalapa,John Doe,email@example.com,+503 7000 0000,114
+El Rinconcito El Buen Gusto Express,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial Comalapa,John Doe,email@example.com,+503 7000 0000,114
+Super El Buen Gusto Express,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial Concepción Quezaltepeque,John Doe,email@example.com,+503 7000 0000,115
+Abarrotes El Buen Gusto Sur,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con amplio estacionamiento.",Residencial Concepción Quezaltepeque,John Doe,email@example.com,+503 7000 0000,115
+Tiendita San Jose Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Dulce Nombre de Maria,John Doe,email@example.com,+503 7000 0000,410
+Comercial Santa Clara Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con amplio estacionamiento.",Residencial Dulce Nombre de Maria,John Doe,email@example.com,+503 7000 0000,410
+Bodega de Descuentos San Francisco Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, cerca de otras tiendas.",Residencial El Carrizal,John Doe,email@example.com,+503 7000 0000,210
+Distribuidora Santa Clara Central,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial El Carrizal,John Doe,email@example.com,+503 7000 0000,210
+Distribuidora El Progreso Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, con áreas verdes cercanas.",Residencial El Paraíso,John Doe,email@example.com,+503 7000 0000,10
+Almacen La Esperanza Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial El Paraíso,John Doe,email@example.com,+503 7000 0000,10
+Super Oferta Santa Maria Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial La Laguna,John Doe,email@example.com,+503 7000 0000,211
+La Esquina Santa Clara Este,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial La Laguna,John Doe,email@example.com,+503 7000 0000,211
+El Buen Precio Los Ángeles Express,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, cerca de otras tiendas.",Residencial La Palma,John Doe,email@example.com,+503 7000 0000,308
+La Despensa de Don Juan,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial La Palma,John Doe,email@example.com,+503 7000 0000,308
+El Ahorrador La Esperanza Central,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial La Reina,John Doe,email@example.com,+503 7000 0000,116
+Mercado Local Buen Precio Del Pueblo,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial La Reina,John Doe,email@example.com,+503 7000 0000,116
+Maxi Despensa,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Las Flores,John Doe,email@example.com,+503 7000 0000,411
+Mercado de la Fe Santa Maria Sur,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, cerca de otras tiendas.",Residencial Las Flores,John Doe,email@example.com,+503 7000 0000,411
+Plaza Market El Centro Express,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, aislada de otros comercios.",Residencial Las Vueltas,John Doe,email@example.com,+503 7000 0000,11
+Plaza Market El Buen Gusto Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con poca afluencia de gente.",Residencial Las Vueltas,John Doe,email@example.com,+503 7000 0000,11
+Punto de Venta Los Primos Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial Nombre de Jesús,John Doe,email@example.com,+503 7000 0000,12
+Super Oferta Santa Clara Central,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con amplio estacionamiento.",Residencial Nombre de Jesús,John Doe,email@example.com,+503 7000 0000,12
+Distribuidora El Rosario Oeste,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, sin estacionamiento.",Residencial Nueva Concepción,John Doe,email@example.com,+503 7000 0000,212
+Punto de Venta La Fortuna Express,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Nueva Concepción,John Doe,email@example.com,+503 7000 0000,212
+Mayorista El Ahorro Este,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Nueva Trinidad,John Doe,email@example.com,+503 7000 0000,13
+Tienda El Buen Gusto Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, cerca de otras tiendas.",Residencial Nueva Trinidad,John Doe,email@example.com,+503 7000 0000,13
+Tienda Familiar San Francisco Este,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con poca afluencia de gente.",Residencial Ojos de Agua,John Doe,email@example.com,+503 7000 0000,412
+Distribuidora El Ahorro Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con poca afluencia de gente.",Residencial Ojos de Agua,John Doe,email@example.com,+503 7000 0000,412
+El Mercadillo La Fortuna Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, sin estacionamiento.",Residencial Potonico,John Doe,email@example.com,+503 7000 0000,309
+La Tiendona El Centro Express,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial Potonico,John Doe,email@example.com,+503 7000 0000,309
+Mini Market Buen Precio Central,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, aislada de otros comercios.",Residencial San Antonio de la Cruz,John Doe,email@example.com,+503 7000 0000,213
+La Bodega El Progreso Central,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, con mucha afluencia de gente.",Residencial San Antonio de la Cruz,John Doe,email@example.com,+503 7000 0000,213
+Mercadito Familiar Santa Clara Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con amplio estacionamiento.",Residencial San Antonio los Ranchos,John Doe,email@example.com,+503 7000 0000,310
+Tienda Familiar El Progreso Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, aislada de otros comercios.",Residencial San Antonio los Ranchos,John Doe,email@example.com,+503 7000 0000,310
+Plaza Market San Francisco Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, sin estacionamiento.",Residencial San Fernando,John Doe,email@example.com,+503 7000 0000,14
+Maxi Ahorro La Fe Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial San Fernando,John Doe,email@example.com,+503 7000 0000,14
+La Central El Centro Este,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con poca afluencia de gente.",Residencial San Francisco Lempa,John Doe,email@example.com,+503 7000 0000,117
+Super Precio La Esperanza Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Francisco Lempa,John Doe,email@example.com,+503 7000 0000,117
+El Buen Precio Santa Maria Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial San Francisco Morazán,John Doe,email@example.com,+503 7000 0000,413
+Tienda Familiar Nuevo Mundo Del Pueblo,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial San Francisco Morazán,John Doe,email@example.com,+503 7000 0000,413
+El Mercadillo Los Primos Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial San Ignacio,John Doe,email@example.com,+503 7000 0000,118
+El Ahorrador El Sol Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial San Ignacio,John Doe,email@example.com,+503 7000 0000,118
+Dollar City,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, con áreas verdes cercanas.",Residencial San Isidro Labrador,John Doe,email@example.com,+503 7000 0000,311
+Punto de Venta El Rosario Norte,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, cerca de otras tiendas.",Residencial San Isidro Labrador,John Doe,email@example.com,+503 7000 0000,311
+Supermercado Santa Maria Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial San Luís del Carmen,John Doe,email@example.com,+503 7000 0000,15
+Comercial Santa Maria Express,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial San Luís del Carmen,John Doe,email@example.com,+503 7000 0000,15
+Supermercado La Unión Express,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, con áreas verdes cercanas.",Residencial San Miguel de Mercedes,John Doe,email@example.com,+503 7000 0000,312
+Distribuidora San Jose Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial San Miguel de Mercedes,John Doe,email@example.com,+503 7000 0000,312
+Super Selectos,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial San Rafael,John Doe,email@example.com,+503 7000 0000,119
+Bodega de Descuentos Nuevo Mundo Central,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, con mucha afluencia de gente.",Residencial San Rafael,John Doe,email@example.com,+503 7000 0000,119
+Mercado Local El Rosario Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Santa Rita,John Doe,email@example.com,+503 7000 0000,214
+Distribuidora El Rosario Oeste,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, sin estacionamiento.",Residencial Santa Rita,John Doe,email@example.com,+503 7000 0000,214
+La Despensa El Rosario Este,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con amplio estacionamiento.",Residencial Tejutla,John Doe,email@example.com,+503 7000 0000,215
+Mercado Popular La Unión Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial Tejutla,John Doe,email@example.com,+503 7000 0000,215
+Mercado El Centro Nuevo Mundo Central,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con poca afluencia de gente.",Residencial Antiguo Cuscatlán,John Doe,email@example.com,+503 7000 0000,120
+Comercial Santa Clara Central,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Antiguo Cuscatlán,John Doe,email@example.com,+503 7000 0000,120
+Mercado Local San Carlos Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial Chiltiupán,John Doe,email@example.com,+503 7000 0000,121
+Mayorista La Fe Central,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial Chiltiupán,John Doe,email@example.com,+503 7000 0000,121
+Mini Market El Ahorro Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con áreas verdes cercanas.",Residencial Ciudad Arce,John Doe,email@example.com,+503 7000 0000,16
+Abarrotes San Jose Sur,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con áreas verdes cercanas.",Residencial Ciudad Arce,John Doe,email@example.com,+503 7000 0000,16
+Super Selectos,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial Colón,John Doe,email@example.com,+503 7000 0000,216
+La Tiendona San Jose Este,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Colón,John Doe,email@example.com,+503 7000 0000,216
+El Rinconcito San Francisco Norte,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, sin estacionamiento.",Residencial Comasagua,John Doe,email@example.com,+503 7000 0000,414
+Mercadito La Fortuna Norte,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial Comasagua,John Doe,email@example.com,+503 7000 0000,414
+Super Selectos,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Huizucar,John Doe,email@example.com,+503 7000 0000,17
+Mercadito Familiar El Rosario Central,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial Huizucar,John Doe,email@example.com,+503 7000 0000,17
+Maxi Ahorro El Sol Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial Jayaque,John Doe,email@example.com,+503 7000 0000,122
+Tienda La Unión Sur,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Jayaque,John Doe,email@example.com,+503 7000 0000,122
+Super Precio Buen Precio Central,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Jicalápa,John Doe,email@example.com,+503 7000 0000,217
+Mayorista La Unión Express,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Jicalápa,John Doe,email@example.com,+503 7000 0000,217
+Mercado El Centro Buen Precio Central,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial La Libertad,John Doe,email@example.com,+503 7000 0000,313
+La Central La Unión Sur,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial La Libertad,John Doe,email@example.com,+503 7000 0000,313
+Mayorista La Fortuna Oeste,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Nuevo Cuscatlán,John Doe,email@example.com,+503 7000 0000,123
+Dollar City,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Nuevo Cuscatlán,John Doe,email@example.com,+503 7000 0000,123
+Tienda Familiar Santa Maria Central,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Quezaltepeque,John Doe,email@example.com,+503 7000 0000,415
+La Despensa de Don Juan,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con mucha afluencia de gente.",Residencial Quezaltepeque,John Doe,email@example.com,+503 7000 0000,415
+Maxi Despensa,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial Sacacoyo,John Doe,email@example.com,+503 7000 0000,18
+Plaza Market La Esperanza Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, cerca de otras tiendas.",Residencial Sacacoyo,John Doe,email@example.com,+503 7000 0000,18
+Mini Market Nuevo Mundo Sur,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial San José Villanueva,John Doe,email@example.com,+503 7000 0000,19
+Mercado de la Fe La Fortuna Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial San José Villanueva,John Doe,email@example.com,+503 7000 0000,19
+Mercadito El Centro Este,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, con poca afluencia de gente.",Residencial San Juán Opico,John Doe,email@example.com,+503 7000 0000,20
+El Ahorrador Los Primos Express,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, sin estacionamiento.",Residencial San Juán Opico,John Doe,email@example.com,+503 7000 0000,20
+Super Oferta Los Ángeles Sur,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial San Matías,John Doe,email@example.com,+503 7000 0000,21
+Super Precio San Carlos Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial San Matías,John Doe,email@example.com,+503 7000 0000,21
+Wal-Mart,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, con poca afluencia de gente.",Residencial San Pablo Tacachico,John Doe,email@example.com,+503 7000 0000,218
+Super Oferta Buen Precio Sur,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Pablo Tacachico,John Doe,email@example.com,+503 7000 0000,218
+El Almacen Santa Clara Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Santa Tecla,John Doe,email@example.com,+503 7000 0000,314
+Supermercado Europa,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Santa Tecla,John Doe,email@example.com,+503 7000 0000,314
+Super Selectos,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Talnique,John Doe,email@example.com,+503 7000 0000,315
+Wal-Mart,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial Talnique,John Doe,email@example.com,+503 7000 0000,315
+Mayorista Los Ángeles Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Tamanique,John Doe,email@example.com,+503 7000 0000,124
+Despensa de Don Juan,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, aislada de otros comercios.",Residencial Tamanique,John Doe,email@example.com,+503 7000 0000,124
+El Mercadillo Buen Precio Central,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Teotepeque,John Doe,email@example.com,+503 7000 0000,416
+Punto de Venta Buen Precio Express,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Teotepeque,John Doe,email@example.com,+503 7000 0000,416
+La Esquina El Progreso Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con amplio estacionamiento.",Residencial Tepecoyo,John Doe,email@example.com,+503 7000 0000,417
+El Almacen Santa Maria Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial Tepecoyo,John Doe,email@example.com,+503 7000 0000,417
+El Mercadillo La Unión Sur,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial Zaragoza,John Doe,email@example.com,+503 7000 0000,418
+Mayorista Los Ángeles Sur,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Zaragoza,John Doe,email@example.com,+503 7000 0000,418
+El Rinconcito El Milagro Norte,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial Aguilares,John Doe,email@example.com,+503 7000 0000,419
+Maxi Ahorro Santa Clara Central,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Aguilares,John Doe,email@example.com,+503 7000 0000,419
+Abarrotes La Unión Norte,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial Apopa,John Doe,email@example.com,+503 7000 0000,219
+La Despensa de Don Juan,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial Apopa,John Doe,email@example.com,+503 7000 0000,219
+Wal-Mart,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Ayutuxtepeque,John Doe,email@example.com,+503 7000 0000,220
+Mercadito El Progreso Express,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, cerca de otras tiendas.",Residencial Ayutuxtepeque,John Doe,email@example.com,+503 7000 0000,220
+Super Precio El Progreso Sur,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial Cuscatancingo,John Doe,email@example.com,+503 7000 0000,125
+La Despensa de Don Juan,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial Cuscatancingo,John Doe,email@example.com,+503 7000 0000,125
+Mayorista La Unión Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con mucha afluencia de gente.",Residencial Delgado,John Doe,email@example.com,+503 7000 0000,316
+La Central La Fortuna Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Delgado,John Doe,email@example.com,+503 7000 0000,316
+Punto de Venta El Milagro Central,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, sin estacionamiento.",Residencial El Paisnal,John Doe,email@example.com,+503 7000 0000,420
+Super Selectos,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial El Paisnal,John Doe,email@example.com,+503 7000 0000,420
+Almacen El Sol Este,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, con amplio estacionamiento.",Residencial Guazapa,John Doe,email@example.com,+503 7000 0000,126
+Almacen Los Primos Este,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, sin estacionamiento.",Residencial Guazapa,John Doe,email@example.com,+503 7000 0000,126
+La Bodega La Fe Este,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con poca afluencia de gente.",Residencial Ilopango,John Doe,email@example.com,+503 7000 0000,317
+Wal-Mart,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con poca afluencia de gente.",Residencial Ilopango,John Doe,email@example.com,+503 7000 0000,317
+Bodega de Descuentos La Fe Norte,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con áreas verdes cercanas.",Residencial Mejicanos,John Doe,email@example.com,+503 7000 0000,127
+Super La Fe Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Mejicanos,John Doe,email@example.com,+503 7000 0000,127
+Supermercado Santa Maria Sur,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Nejapa,John Doe,email@example.com,+503 7000 0000,421
+Mercadito La Esperanza Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Nejapa,John Doe,email@example.com,+503 7000 0000,421
+Distribuidora La Fortuna Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, cerca de otras tiendas.",Residencial Panchimalco,John Doe,email@example.com,+503 7000 0000,22
+Mercado Popular El Ahorro Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Panchimalco,John Doe,email@example.com,+503 7000 0000,22
+Tienda de la Esquina San Jose Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, aislada de otros comercios.",Residencial Rosario de Mora,John Doe,email@example.com,+503 7000 0000,23
+Mercado El Centro La Fe Este,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, aislada de otros comercios.",Residencial Rosario de Mora,John Doe,email@example.com,+503 7000 0000,23
+Despensa de Don Juan,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial San Marcos,John Doe,email@example.com,+503 7000 0000,422
+Maxi Ahorro La Unión Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial San Marcos,John Doe,email@example.com,+503 7000 0000,422
+Mayorista La Esperanza Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial San Martín,John Doe,email@example.com,+503 7000 0000,318
+Dollar City,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con amplio estacionamiento.",Residencial San Martín,John Doe,email@example.com,+503 7000 0000,318
+El Rinconcito San Carlos Este,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con amplio estacionamiento.",Residencial San Salvador,John Doe,email@example.com,+503 7000 0000,423
+Super Selectos,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial San Salvador,John Doe,email@example.com,+503 7000 0000,423
+El Buen Precio Nuevo Mundo Central,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial Santiago Texacuangos,John Doe,email@example.com,+503 7000 0000,424
+Mercado Popular Santa Clara Central,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Santiago Texacuangos,John Doe,email@example.com,+503 7000 0000,424
+Bodega de Descuentos San Carlos Del Pueblo,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, aislada de otros comercios.",Residencial Santo Tomas,John Doe,email@example.com,+503 7000 0000,319
+La Bodega San Jose Express,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, cerca de otras tiendas.",Residencial Santo Tomas,John Doe,email@example.com,+503 7000 0000,319
+El Ahorrador La Fe Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Soyapango,John Doe,email@example.com,+503 7000 0000,425
+La Central Santa Clara Este,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, sin estacionamiento.",Residencial Soyapango,John Doe,email@example.com,+503 7000 0000,425
+Supermercado El Sol Sur,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, cerca de otras tiendas.",Residencial Tonacatepeque,John Doe,email@example.com,+503 7000 0000,221
+Tienda Familiar San Jose Del Pueblo,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial Tonacatepeque,John Doe,email@example.com,+503 7000 0000,221
+Tienda San Carlos Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial Candelaria,John Doe,email@example.com,+503 7000 0000,426
+Comercial San Carlos Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Candelaria,John Doe,email@example.com,+503 7000 0000,426
+Maxi Despensa,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con amplio estacionamiento.",Residencial Cojutepeque,John Doe,email@example.com,+503 7000 0000,24
+Mercadito Familiar El Centro Norte,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, con poca afluencia de gente.",Residencial Cojutepeque,John Doe,email@example.com,+503 7000 0000,24
+El Mercadillo Buen Precio Sur,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial El Carmen,John Doe,email@example.com,+503 7000 0000,427
+Despensa de Don Juan,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, cerca de otras tiendas.",Residencial El Carmen,John Doe,email@example.com,+503 7000 0000,427
+Maxi Ahorro Nuevo Mundo Express,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial El Rosario,John Doe,email@example.com,+503 7000 0000,222
+Abarrotes La Fe Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, cerca de otras tiendas.",Residencial El Rosario,John Doe,email@example.com,+503 7000 0000,222
+El Ahorrador San Carlos Oeste,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Monte San Juán,John Doe,email@example.com,+503 7000 0000,428
+El Ahorrador San Francisco Norte,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, cerca de otras tiendas.",Residencial Monte San Juán,John Doe,email@example.com,+503 7000 0000,428
+Almacen El Buen Gusto Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Oratorio de Concepción,John Doe,email@example.com,+503 7000 0000,128
+Super Oferta San Jose Sur,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, cerca de otras tiendas.",Residencial Oratorio de Concepción,John Doe,email@example.com,+503 7000 0000,128
+La Despensa Los Ángeles Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con amplio estacionamiento.",Residencial San Bartolomé Perulapía,John Doe,email@example.com,+503 7000 0000,25
+Mercado de la Fe El Sol Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial San Bartolomé Perulapía,John Doe,email@example.com,+503 7000 0000,25
+El Ahorrador La Esperanza Norte,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial San Cristóbal,John Doe,email@example.com,+503 7000 0000,320
+Super Oferta El Milagro Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial San Cristóbal,John Doe,email@example.com,+503 7000 0000,320
+Mercadito El Progreso Express,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial San José Guayabal,John Doe,email@example.com,+503 7000 0000,429
+Punto de Venta Los Ángeles Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con áreas verdes cercanas.",Residencial San José Guayabal,John Doe,email@example.com,+503 7000 0000,429
+Punto de Venta El Buen Gusto Este,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial San Pedro Perulapán,John Doe,email@example.com,+503 7000 0000,26
+Maxi Ahorro La Fortuna Sur,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Pedro Perulapán,John Doe,email@example.com,+503 7000 0000,26
+La Despensa de Don Juan,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, sin estacionamiento.",Residencial San Rafael Cedros,John Doe,email@example.com,+503 7000 0000,129
+Mercado Local Nuevo Mundo Central,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con poca afluencia de gente.",Residencial San Rafael Cedros,John Doe,email@example.com,+503 7000 0000,129
+Mini Market San Jose Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, cerca de otras tiendas.",Residencial San Ramón,John Doe,email@example.com,+503 7000 0000,321
+La Despensa La Unión Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con poca afluencia de gente.",Residencial San Ramón,John Doe,email@example.com,+503 7000 0000,321
+Despensa de Don Juan,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial Santa Cruz Analquito,John Doe,email@example.com,+503 7000 0000,223
+Tienda Familiar La Unión Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Santa Cruz Analquito,John Doe,email@example.com,+503 7000 0000,223
+Despensa de Don Juan,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Santa Cruz Michapa,John Doe,email@example.com,+503 7000 0000,224
+Punto de Venta La Esperanza Norte,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, sin estacionamiento.",Residencial Santa Cruz Michapa,John Doe,email@example.com,+503 7000 0000,224
+Mercadito El Sol Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial Suchitoto,John Doe,email@example.com,+503 7000 0000,27
+Supermercado Europa,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, aislada de otros comercios.",Residencial Suchitoto,John Doe,email@example.com,+503 7000 0000,27
+El Mercadillo Buen Precio Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial Tenancingo,John Doe,email@example.com,+503 7000 0000,130
+La Despensa de Don Juan,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Tenancingo,John Doe,email@example.com,+503 7000 0000,130
+El Rinconcito San Jose Norte,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, con mucha afluencia de gente.",Residencial Cuyultitán,John Doe,email@example.com,+503 7000 0000,322
+Distribuidora Buen Precio Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Cuyultitán,John Doe,email@example.com,+503 7000 0000,322
+Super Selectos,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial El Rosario,John Doe,email@example.com,+503 7000 0000,225
+Mayorista La Esperanza Norte,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial El Rosario,John Doe,email@example.com,+503 7000 0000,225
+El Almacen San Francisco Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, con mucha afluencia de gente.",Residencial Jerusalen,John Doe,email@example.com,+503 7000 0000,28
+El Ahorrador San Francisco Del Pueblo,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial Jerusalen,John Doe,email@example.com,+503 7000 0000,28
+El Buen Precio La Unión Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con poca afluencia de gente.",Residencial Mercedes la Ceiba,John Doe,email@example.com,+503 7000 0000,131
+Super San Jose Sur,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Mercedes la Ceiba,John Doe,email@example.com,+503 7000 0000,131
+El Buen Precio La Unión Express,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial Olocuilta,John Doe,email@example.com,+503 7000 0000,29
+La Esquina La Esperanza Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, con mucha afluencia de gente.",Residencial Olocuilta,John Doe,email@example.com,+503 7000 0000,29
+Plaza Market El Milagro Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial Paraíso de Osorio,John Doe,email@example.com,+503 7000 0000,430
+Super San Carlos Sur,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, con mucha afluencia de gente.",Residencial Paraíso de Osorio,John Doe,email@example.com,+503 7000 0000,430
+Dollar City,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial San Antonio Masahuat,John Doe,email@example.com,+503 7000 0000,323
+Mayorista El Buen Gusto Norte,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial San Antonio Masahuat,John Doe,email@example.com,+503 7000 0000,323
+Mercadito Familiar El Buen Gusto Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, con mucha afluencia de gente.",Residencial San Emigdio,John Doe,email@example.com,+503 7000 0000,431
+El Ahorrador San Francisco Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial San Emigdio,John Doe,email@example.com,+503 7000 0000,431
+La Bodega La Fe Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, aislada de otros comercios.",Residencial San Francisco Chinameca,John Doe,email@example.com,+503 7000 0000,30
+La Bodega El Progreso Este,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, sin estacionamiento.",Residencial San Francisco Chinameca,John Doe,email@example.com,+503 7000 0000,30
+Distribuidora El Progreso Sur,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial San Juan Nonualco,John Doe,email@example.com,+503 7000 0000,132
+El Mercadillo El Milagro Este,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial San Juan Nonualco,John Doe,email@example.com,+503 7000 0000,132
+Mercadito El Sol Este,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, cerca de otras tiendas.",Residencial San Juan Talpa,John Doe,email@example.com,+503 7000 0000,432
+El Almacen Los Ángeles Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial San Juan Talpa,John Doe,email@example.com,+503 7000 0000,432
+La Bodega La Unión Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial San Juan Tepezontes,John Doe,email@example.com,+503 7000 0000,133
+Super Los Ángeles Sur,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial San Juan Tepezontes,John Doe,email@example.com,+503 7000 0000,133
+Supermercado La Fortuna Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial San Luís La Herradura,John Doe,email@example.com,+503 7000 0000,433
+Plaza Market La Fortuna Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial San Luís La Herradura,John Doe,email@example.com,+503 7000 0000,433
+Tienda San Carlos Express,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con poca afluencia de gente.",Residencial San Luís Talpa,John Doe,email@example.com,+503 7000 0000,434
+Super Selectos,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial San Luís Talpa,John Doe,email@example.com,+503 7000 0000,434
+Tienda Familiar La Fortuna Sur,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, aislada de otros comercios.",Residencial San Miguel Tepezontes,John Doe,email@example.com,+503 7000 0000,226
+Super El Progreso Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial San Miguel Tepezontes,John Doe,email@example.com,+503 7000 0000,226
+Bodega de Descuentos La Fe Central,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial San Pedro Masahuat,John Doe,email@example.com,+503 7000 0000,134
+Despensa de Don Juan,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial San Pedro Masahuat,John Doe,email@example.com,+503 7000 0000,134
+Plaza Market La Unión Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, sin estacionamiento.",Residencial San Pedro Nonualco,John Doe,email@example.com,+503 7000 0000,135
+Despensa de Don Juan,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial San Pedro Nonualco,John Doe,email@example.com,+503 7000 0000,135
+Super Selectos,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial San Rafael Obrajuelo,John Doe,email@example.com,+503 7000 0000,31
+Mercadito San Carlos Norte,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial San Rafael Obrajuelo,John Doe,email@example.com,+503 7000 0000,31
+Almacen El Progreso Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial Santa Maria Ostuma,John Doe,email@example.com,+503 7000 0000,435
+El Mercadillo La Unión Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Santa Maria Ostuma,John Doe,email@example.com,+503 7000 0000,435
+Supermercado Santa Clara Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial Santiago Nonualco,John Doe,email@example.com,+503 7000 0000,436
+La Central El Buen Gusto Sur,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial Santiago Nonualco,John Doe,email@example.com,+503 7000 0000,436
+Super San Francisco Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, con mucha afluencia de gente.",Residencial Tapalhuaca,John Doe,email@example.com,+503 7000 0000,227
+Abarrotes El Centro Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, aislada de otros comercios.",Residencial Tapalhuaca,John Doe,email@example.com,+503 7000 0000,227
+Mercadito Familiar San Jose Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Zacatecoluca,John Doe,email@example.com,+503 7000 0000,32
+Supermercado San Carlos Norte,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, sin estacionamiento.",Residencial Zacatecoluca,John Doe,email@example.com,+503 7000 0000,32
+Mini Market La Fe Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial Cinquera,John Doe,email@example.com,+503 7000 0000,136
+Wal-Mart,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con mucha afluencia de gente.",Residencial Cinquera,John Doe,email@example.com,+503 7000 0000,136
+Tiendita San Carlos Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, aislada de otros comercios.",Residencial Dolores,John Doe,email@example.com,+503 7000 0000,33
+El Rinconcito El Progreso Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con áreas verdes cercanas.",Residencial Dolores,John Doe,email@example.com,+503 7000 0000,33
+El Mercadillo El Rosario Norte,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Guacotecti,John Doe,email@example.com,+503 7000 0000,34
+Tienda de la Esquina Los Primos Este,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con mucha afluencia de gente.",Residencial Guacotecti,John Doe,email@example.com,+503 7000 0000,34
+Despensa de Don Juan,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Ilobasco,John Doe,email@example.com,+503 7000 0000,35
+La Central Los Primos Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial Ilobasco,John Doe,email@example.com,+503 7000 0000,35
+Almacen El Buen Gusto Central,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial Jutiapa,John Doe,email@example.com,+503 7000 0000,437
+Almacen El Centro Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Jutiapa,John Doe,email@example.com,+503 7000 0000,437
+La Central Santa Clara Oeste,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial San Isidro,John Doe,email@example.com,+503 7000 0000,228
+La Bodega Nuevo Mundo Norte,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con mucha afluencia de gente.",Residencial San Isidro,John Doe,email@example.com,+503 7000 0000,228
+La Tiendona La Fe Del Pueblo,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial Sensuntepeque,John Doe,email@example.com,+503 7000 0000,229
+Abarrotes El Ahorro Oeste,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, aislada de otros comercios.",Residencial Sensuntepeque,John Doe,email@example.com,+503 7000 0000,229
+El Rinconcito La Esperanza Norte,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, con poca afluencia de gente.",Residencial Tejutepeque,John Doe,email@example.com,+503 7000 0000,36
+Maxi Ahorro El Rosario Sur,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial Tejutepeque,John Doe,email@example.com,+503 7000 0000,36
+Tienda Buen Precio Norte,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con áreas verdes cercanas.",Residencial Victoria,John Doe,email@example.com,+503 7000 0000,438
+El Rinconcito El Milagro Este,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, cerca de otras tiendas.",Residencial Victoria,John Doe,email@example.com,+503 7000 0000,438
+Mayorista El Ahorro Central,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Apastepeque,John Doe,email@example.com,+503 7000 0000,230
+Supermercado Europa,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial Apastepeque,John Doe,email@example.com,+503 7000 0000,230
+Mayorista San Francisco Sur,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con poca afluencia de gente.",Residencial Guadalupe,John Doe,email@example.com,+503 7000 0000,137
+La Despensa de Don Juan,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Guadalupe,John Doe,email@example.com,+503 7000 0000,137
+Mercadito San Francisco Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con mucha afluencia de gente.",Residencial San Cayetano Istepeque,John Doe,email@example.com,+503 7000 0000,37
+Mercado de la Fe Los Ángeles Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial San Cayetano Istepeque,John Doe,email@example.com,+503 7000 0000,37
+Tienda de la Esquina El Ahorro Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial San Esteban Catarina,John Doe,email@example.com,+503 7000 0000,324
+Tienda Familiar San Carlos Este,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial San Esteban Catarina,John Doe,email@example.com,+503 7000 0000,324
+Supermercado El Progreso Este,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Ildefonso,John Doe,email@example.com,+503 7000 0000,38
+Mercado El Centro San Francisco Este,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial San Ildefonso,John Doe,email@example.com,+503 7000 0000,38
+Super Precio El Progreso Sur,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con poca afluencia de gente.",Residencial San Lorenzo,John Doe,email@example.com,+503 7000 0000,439
+Super Oferta San Francisco Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial San Lorenzo,John Doe,email@example.com,+503 7000 0000,439
+El Ahorrador San Carlos Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, aislada de otros comercios.",Residencial San Sebastián,John Doe,email@example.com,+503 7000 0000,231
+La Despensa Santa Maria Del Pueblo,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con amplio estacionamiento.",Residencial San Sebastián,John Doe,email@example.com,+503 7000 0000,231
+Mercado de la Fe El Milagro Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Vicente,John Doe,email@example.com,+503 7000 0000,440
+Mayorista El Rosario Express,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial San Vicente,John Doe,email@example.com,+503 7000 0000,440
+Despensa de Don Juan,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con amplio estacionamiento.",Residencial Santa Clara,John Doe,email@example.com,+503 7000 0000,441
+Supermercado Europa,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con amplio estacionamiento.",Residencial Santa Clara,John Doe,email@example.com,+503 7000 0000,441
+Supermercado Santa Maria Norte,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Santo Domingo,John Doe,email@example.com,+503 7000 0000,39
+El Almacen El Rosario Norte,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Santo Domingo,John Doe,email@example.com,+503 7000 0000,39
+Mercado El Centro El Ahorro Central,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con poca afluencia de gente.",Residencial Tecoluca,John Doe,email@example.com,+503 7000 0000,232
+Tienda Familiar San Jose Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, cerca de otras tiendas.",Residencial Tecoluca,John Doe,email@example.com,+503 7000 0000,232
+Bodega de Descuentos San Francisco Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial Tepetitán,John Doe,email@example.com,+503 7000 0000,442
+Mercado El Centro El Sol Norte,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, cerca de otras tiendas.",Residencial Tepetitán,John Doe,email@example.com,+503 7000 0000,442
+Supermercado El Milagro Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con poca afluencia de gente.",Residencial Verapaz,John Doe,email@example.com,+503 7000 0000,325
+Plaza Market El Rosario Este,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Verapaz,John Doe,email@example.com,+503 7000 0000,325
+El Mercadillo Nuevo Mundo Central,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Alegría,John Doe,email@example.com,+503 7000 0000,443
+La Bodega El Centro Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Alegría,John Doe,email@example.com,+503 7000 0000,443
+Comercial La Esperanza Sur,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial Berlín,John Doe,email@example.com,+503 7000 0000,40
+Super Oferta El Milagro Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Berlín,John Doe,email@example.com,+503 7000 0000,40
+Super Selectos,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, aislada de otros comercios.",Residencial California,John Doe,email@example.com,+503 7000 0000,444
+El Mercadillo Los Ángeles Oeste,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial California,John Doe,email@example.com,+503 7000 0000,444
+Mercado Popular La Esperanza Norte,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con amplio estacionamiento.",Residencial Concepción Batres,John Doe,email@example.com,+503 7000 0000,41
+La Central Santa Clara Sur,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, con poca afluencia de gente.",Residencial Concepción Batres,John Doe,email@example.com,+503 7000 0000,41
+Bodega de Descuentos El Ahorro Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, aislada de otros comercios.",Residencial El Triunfo,John Doe,email@example.com,+503 7000 0000,445
+Supermercado Los Primos Sur,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial El Triunfo,John Doe,email@example.com,+503 7000 0000,445
+Abarrotes La Fortuna Este,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, aislada de otros comercios.",Residencial Ereguayquin,John Doe,email@example.com,+503 7000 0000,326
+Supermercado El Buen Gusto Norte,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Ereguayquin,John Doe,email@example.com,+503 7000 0000,326
+Plaza Market La Unión Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial Estanzuelas,John Doe,email@example.com,+503 7000 0000,446
+El Rinconcito El Progreso Express,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, cerca de otras tiendas.",Residencial Estanzuelas,John Doe,email@example.com,+503 7000 0000,446
+Mayorista San Jose Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial Jiquilisco,John Doe,email@example.com,+503 7000 0000,42
+Tienda de la Esquina El Sol Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con poca afluencia de gente.",Residencial Jiquilisco,John Doe,email@example.com,+503 7000 0000,42
+El Rinconcito La Fe Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial Jucuapa,John Doe,email@example.com,+503 7000 0000,43
+La Despensa El Buen Gusto Oeste,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Jucuapa,John Doe,email@example.com,+503 7000 0000,43
+Tiendita La Esperanza Este,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, con mucha afluencia de gente.",Residencial Jucuarán,John Doe,email@example.com,+503 7000 0000,233
+Supermercado Santa Maria Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial Jucuarán,John Doe,email@example.com,+503 7000 0000,233
+El Mercadillo La Fortuna Central,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con poca afluencia de gente.",Residencial Mercedes Umaña,John Doe,email@example.com,+503 7000 0000,138
+El Rinconcito Buen Precio Central,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial Mercedes Umaña,John Doe,email@example.com,+503 7000 0000,138
+El Buen Precio La Esperanza Este,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, aislada de otros comercios.",Residencial Nueva Granada,John Doe,email@example.com,+503 7000 0000,327
+Supermercado Europa,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, sin estacionamiento.",Residencial Nueva Granada,John Doe,email@example.com,+503 7000 0000,327
+Mercadito La Unión Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Ozatlán,John Doe,email@example.com,+503 7000 0000,447
+Super Selectos,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Ozatlán,John Doe,email@example.com,+503 7000 0000,447
+Plaza Market San Francisco Del Pueblo,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, cerca de otras tiendas.",Residencial Puerto El Triunfo,John Doe,email@example.com,+503 7000 0000,44
+Despensa de Don Juan,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, aislada de otros comercios.",Residencial Puerto El Triunfo,John Doe,email@example.com,+503 7000 0000,44
+Distribuidora Santa Maria Express,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, cerca de otras tiendas.",Residencial San Agustín,John Doe,email@example.com,+503 7000 0000,234
+Tiendita Buen Precio Norte,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial San Agustín,John Doe,email@example.com,+503 7000 0000,234
+Mercado El Centro Santa Maria Express,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, sin estacionamiento.",Residencial San Buena Ventura,John Doe,email@example.com,+503 7000 0000,235
+Punto de Venta Los Primos Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial San Buena Ventura,John Doe,email@example.com,+503 7000 0000,235
+Tienda San Carlos Oeste,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial San Dionisio,John Doe,email@example.com,+503 7000 0000,139
+La Central El Buen Gusto Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, con mucha afluencia de gente.",Residencial San Dionisio,John Doe,email@example.com,+503 7000 0000,139
+La Central El Centro Express,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial San Francisco Javier,John Doe,email@example.com,+503 7000 0000,328
+Tienda de la Esquina El Centro Norte,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial San Francisco Javier,John Doe,email@example.com,+503 7000 0000,328
+Mayorista El Centro Norte,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial Santa Elena,John Doe,email@example.com,+503 7000 0000,329
+Punto de Venta El Rosario Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Santa Elena,John Doe,email@example.com,+503 7000 0000,329
+La Despensa La Esperanza Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, con áreas verdes cercanas.",Residencial Santa Maria,John Doe,email@example.com,+503 7000 0000,448
+El Buen Precio La Unión Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Santa Maria,John Doe,email@example.com,+503 7000 0000,448
+Supermercado La Esperanza Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con poca afluencia de gente.",Residencial Santiago de Maria,John Doe,email@example.com,+503 7000 0000,45
+Abarrotes La Esperanza Sur,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, sin estacionamiento.",Residencial Santiago de Maria,John Doe,email@example.com,+503 7000 0000,45
+Punto de Venta El Milagro Este,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, cerca de otras tiendas.",Residencial Tecapán,John Doe,email@example.com,+503 7000 0000,330
+Tienda La Esperanza Express,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, aislada de otros comercios.",Residencial Tecapán,John Doe,email@example.com,+503 7000 0000,330
+Almacen Nuevo Mundo Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, cerca de otras tiendas.",Residencial Usulután,John Doe,email@example.com,+503 7000 0000,140
+La Despensa Santa Clara Express,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial Usulután,John Doe,email@example.com,+503 7000 0000,140
+Super Precio Los Ángeles Norte,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial Carolina,John Doe,email@example.com,+503 7000 0000,449
+Almacen Los Primos Norte,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, aislada de otros comercios.",Residencial Carolina,John Doe,email@example.com,+503 7000 0000,449
+Despensa de Don Juan,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Chapeltique,John Doe,email@example.com,+503 7000 0000,141
+Distribuidora El Buen Gusto Express,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, aislada de otros comercios.",Residencial Chapeltique,John Doe,email@example.com,+503 7000 0000,141
+Mercadito Familiar El Sol Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Chinameca,John Doe,email@example.com,+503 7000 0000,142
+Super Buen Precio Express,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial Chinameca,John Doe,email@example.com,+503 7000 0000,142
+Tienda Familiar El Sol Norte,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con amplio estacionamiento.",Residencial Chirilagua,John Doe,email@example.com,+503 7000 0000,450
+Supermercado San Jose Sur,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Chirilagua,John Doe,email@example.com,+503 7000 0000,450
+Despensa de Don Juan,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Ciudad Barrios,John Doe,email@example.com,+503 7000 0000,46
+Super Selectos,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial Ciudad Barrios,John Doe,email@example.com,+503 7000 0000,46
+Plaza Market El Rosario Oeste,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial Comacarán,John Doe,email@example.com,+503 7000 0000,451
+El Buen Precio El Milagro Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con áreas verdes cercanas.",Residencial Comacarán,John Doe,email@example.com,+503 7000 0000,451
+Plaza Market El Ahorro Sur,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, con poca afluencia de gente.",Residencial El Transito,John Doe,email@example.com,+503 7000 0000,236
+Wal-Mart,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial El Transito,John Doe,email@example.com,+503 7000 0000,236
+El Buen Precio Santa Clara Este,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Lolotique,John Doe,email@example.com,+503 7000 0000,237
+Super San Jose Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Lolotique,John Doe,email@example.com,+503 7000 0000,237
+Mercado El Centro La Fortuna Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Moncagua,John Doe,email@example.com,+503 7000 0000,143
+Despensa de Don Juan,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con mucha afluencia de gente.",Residencial Moncagua,John Doe,email@example.com,+503 7000 0000,143
+El Buen Precio San Carlos Oeste,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial Nueva Guadalupe,John Doe,email@example.com,+503 7000 0000,331
+Abarrotes Nuevo Mundo Express,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Nueva Guadalupe,John Doe,email@example.com,+503 7000 0000,331
+Mercado El Centro Los Primos Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con amplio estacionamiento.",Residencial Nuevo Edén de San Juan,John Doe,email@example.com,+503 7000 0000,238
+La Tiendona El Progreso Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Nuevo Edén de San Juan,John Doe,email@example.com,+503 7000 0000,238
+Bodega de Descuentos Los Ángeles Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial Quelepa,John Doe,email@example.com,+503 7000 0000,452
+Mercadito Familiar El Milagro Sur,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con mucha afluencia de gente.",Residencial Quelepa,John Doe,email@example.com,+503 7000 0000,452
+Distribuidora San Francisco Central,"Tienda de tamaño mediana, fácil acceso, ubicada en la periferia, con amplio estacionamiento.",Residencial San Antonio,John Doe,email@example.com,+503 7000 0000,47
+Super Selectos,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial San Antonio,John Doe,email@example.com,+503 7000 0000,47
+La Esquina Buen Precio Del Pueblo,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial San Gerardo,John Doe,email@example.com,+503 7000 0000,48
+Wal-Mart,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial San Gerardo,John Doe,email@example.com,+503 7000 0000,48
+Despensa de Don Juan,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial San Jorge,John Doe,email@example.com,+503 7000 0000,144
+El Mercadillo Buen Precio Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial San Jorge,John Doe,email@example.com,+503 7000 0000,144
+El Ahorrador La Unión Express,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, cerca de otras tiendas.",Residencial San Luís de La Reina,John Doe,email@example.com,+503 7000 0000,453
+Plaza Market El Buen Gusto Sur,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con mucha afluencia de gente.",Residencial San Luís de La Reina,John Doe,email@example.com,+503 7000 0000,453
+Punto de Venta La Fe Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con mucha afluencia de gente.",Residencial San Miguel,John Doe,email@example.com,+503 7000 0000,49
+Plaza Market El Progreso Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial San Miguel,John Doe,email@example.com,+503 7000 0000,49
+El Rinconcito San Francisco Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Rafael Oriente,John Doe,email@example.com,+503 7000 0000,454
+Wal-Mart,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, con poca afluencia de gente.",Residencial San Rafael Oriente,John Doe,email@example.com,+503 7000 0000,454
+Super Selectos,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con amplio estacionamiento.",Residencial Sesori,John Doe,email@example.com,+503 7000 0000,332
+Mercado Popular El Ahorro Sur,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial Sesori,John Doe,email@example.com,+503 7000 0000,332
+Mini Market El Buen Gusto Este,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con amplio estacionamiento.",Residencial Uluazapa,John Doe,email@example.com,+503 7000 0000,145
+El Buen Precio El Ahorro Norte,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial Uluazapa,John Doe,email@example.com,+503 7000 0000,145
+La Tiendona Santa Maria Express,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial Arambala,John Doe,email@example.com,+503 7000 0000,333
+La Esquina Santa Maria Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Arambala,John Doe,email@example.com,+503 7000 0000,333
+Super Selectos,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con poca afluencia de gente.",Residencial Cacaopera,John Doe,email@example.com,+503 7000 0000,455
+El Almacen El Rosario Del Pueblo,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial Cacaopera,John Doe,email@example.com,+503 7000 0000,455
+Super Oferta Santa Maria Este,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Chilanga,John Doe,email@example.com,+503 7000 0000,146
+Distribuidora Nuevo Mundo Central,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Chilanga,John Doe,email@example.com,+503 7000 0000,146
+Super Selectos,"Tienda de tamaño pequeña, acceso restringido, ubicada en el centro, con mucha afluencia de gente.",Residencial Corinto,John Doe,email@example.com,+503 7000 0000,239
+Tienda de la Esquina La Fe Oeste,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Corinto,John Doe,email@example.com,+503 7000 0000,239
+Supermercado La Fortuna Express,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, sin estacionamiento.",Residencial Delicias de Concepción,John Doe,email@example.com,+503 7000 0000,50
+Dollar City,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Delicias de Concepción,John Doe,email@example.com,+503 7000 0000,50
+La Central El Rosario Express,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial El Divisadero,John Doe,email@example.com,+503 7000 0000,240
+Super Selectos,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, aislada de otros comercios.",Residencial El Divisadero,John Doe,email@example.com,+503 7000 0000,240
+Comercial Los Ángeles Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial El Rosario,John Doe,email@example.com,+503 7000 0000,241
+El Ahorrador La Fortuna Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con poca afluencia de gente.",Residencial El Rosario,John Doe,email@example.com,+503 7000 0000,241
+Despensa de Don Juan,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial Gualococti,John Doe,email@example.com,+503 7000 0000,334
+La Tiendona Nuevo Mundo Del Pueblo,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con amplio estacionamiento.",Residencial Gualococti,John Doe,email@example.com,+503 7000 0000,334
+La Esquina El Sol Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, con poca afluencia de gente.",Residencial Guatajiagua,John Doe,email@example.com,+503 7000 0000,456
+Mercado Popular La Esperanza Del Pueblo,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Guatajiagua,John Doe,email@example.com,+503 7000 0000,456
+Super Oferta Santa Maria Central,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, con poca afluencia de gente.",Residencial Joateca,John Doe,email@example.com,+503 7000 0000,457
+Plaza Market El Sol Central,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Joateca,John Doe,email@example.com,+503 7000 0000,457
+Tiendita San Carlos Norte,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con mucha afluencia de gente.",Residencial Jocoaitique,John Doe,email@example.com,+503 7000 0000,335
+Tienda Los Primos Este,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Jocoaitique,John Doe,email@example.com,+503 7000 0000,335
+Super Oferta El Buen Gusto Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, aislada de otros comercios.",Residencial Jocoro,John Doe,email@example.com,+503 7000 0000,242
+Super El Centro Central,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Jocoro,John Doe,email@example.com,+503 7000 0000,242
+Dollar City,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Lolotiquillo,John Doe,email@example.com,+503 7000 0000,51
+Mercado Local Nuevo Mundo Sur,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Lolotiquillo,John Doe,email@example.com,+503 7000 0000,51
+Bodega de Descuentos San Francisco Norte,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con áreas verdes cercanas.",Residencial Meanguera,John Doe,email@example.com,+503 7000 0000,52
+Tiendita La Fortuna Sur,"Tienda de tamaño mediana, fácil acceso, ubicada en zona residencial, con amplio estacionamiento.",Residencial Meanguera,John Doe,email@example.com,+503 7000 0000,52
+Super Precio La Fe Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en zona residencial, con áreas verdes cercanas.",Residencial Osicala,John Doe,email@example.com,+503 7000 0000,336
+Supermercado Europa,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, aislada de otros comercios.",Residencial Osicala,John Doe,email@example.com,+503 7000 0000,336
+Plaza Market Los Ángeles Este,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Perquín,John Doe,email@example.com,+503 7000 0000,53
+Mercado Local Nuevo Mundo Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, con mucha afluencia de gente.",Residencial Perquín,John Doe,email@example.com,+503 7000 0000,53
+Mayorista San Francisco Norte,"Tienda de tamaño grande, fácil acceso, ubicada en la periferia, con áreas verdes cercanas.",Residencial San Carlos,John Doe,email@example.com,+503 7000 0000,243
+Dollar City,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, sin estacionamiento.",Residencial San Carlos,John Doe,email@example.com,+503 7000 0000,243
+Mercadito Familiar El Ahorro Sur,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con mucha afluencia de gente.",Residencial San Fernando,John Doe,email@example.com,+503 7000 0000,54
+La Esquina San Jose Sur,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, cerca de otras tiendas.",Residencial San Fernando,John Doe,email@example.com,+503 7000 0000,54
+Dollar City,"Tienda de tamaño grande, fácil acceso, ubicada en zona residencial, cerca de otras tiendas.",Residencial San Francisco Gotera,John Doe,email@example.com,+503 7000 0000,337
+Super Selectos,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, con amplio estacionamiento.",Residencial San Francisco Gotera,John Doe,email@example.com,+503 7000 0000,337
+Tienda San Jose Del Pueblo,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, aislada de otros comercios.",Residencial San Isidro,John Doe,email@example.com,+503 7000 0000,244
+La Bodega San Francisco Central,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, sin estacionamiento.",Residencial San Isidro,John Doe,email@example.com,+503 7000 0000,244
+Dollar City,"Tienda de tamaño grande, acceso complicado, ubicada en zona residencial, cerca de otras tiendas.",Residencial San Simón,John Doe,email@example.com,+503 7000 0000,147
+Almacen La Fortuna Norte,"Tienda de tamaño grande, acceso restringido, ubicada en la periferia, con poca afluencia de gente.",Residencial San Simón,John Doe,email@example.com,+503 7000 0000,147
+Dollar City,"Tienda de tamaño mediana, acceso complicado, ubicada en el centro, con áreas verdes cercanas.",Residencial Sensembra,John Doe,email@example.com,+503 7000 0000,148
+La Esquina El Ahorro Norte,"Tienda de tamaño mediana, fácil acceso, ubicada en zona comercial, con mucha afluencia de gente.",Residencial Sensembra,John Doe,email@example.com,+503 7000 0000,148
+Mercado El Centro La Unión Del Pueblo,"Tienda de tamaño grande, acceso complicado, ubicada en el centro, cerca de otras tiendas.",Residencial Sociedad,John Doe,email@example.com,+503 7000 0000,55
+La Tiendona La Fe Oeste,"Tienda de tamaño pequeña, fácil acceso, ubicada en la periferia, sin estacionamiento.",Residencial Sociedad,John Doe,email@example.com,+503 7000 0000,55
+Maxi Despensa,"Tienda de tamaño mediana, acceso restringido, ubicada en la periferia, aislada de otros comercios.",Residencial Torola,John Doe,email@example.com,+503 7000 0000,149
+Bodega de Descuentos El Sol Central,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Torola,John Doe,email@example.com,+503 7000 0000,149
+Distribuidora Los Ángeles Norte,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, con áreas verdes cercanas.",Residencial Yamabal,John Doe,email@example.com,+503 7000 0000,458
+Comercial El Centro Oeste,"Tienda de tamaño pequeña, acceso complicado, ubicada en el centro, con amplio estacionamiento.",Residencial Yamabal,John Doe,email@example.com,+503 7000 0000,458
+Comercial El Progreso Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, con amplio estacionamiento.",Residencial Yoloaiquín,John Doe,email@example.com,+503 7000 0000,338
+Maxi Ahorro El Ahorro Este,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Yoloaiquín,John Doe,email@example.com,+503 7000 0000,338
+El Mercadillo El Centro Este,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, sin estacionamiento.",Residencial Anamoros,John Doe,email@example.com,+503 7000 0000,339
+Maxi Ahorro Santa Clara Norte,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial Anamoros,John Doe,email@example.com,+503 7000 0000,339
+La Central San Francisco Este,"Tienda de tamaño pequeña, fácil acceso, ubicada en el centro, con poca afluencia de gente.",Residencial Bolívar,John Doe,email@example.com,+503 7000 0000,56
+Almacen Santa Maria Sur,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, cerca de otras tiendas.",Residencial Bolívar,John Doe,email@example.com,+503 7000 0000,56
+Mini Market San Jose Este,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, con amplio estacionamiento.",Residencial Concepción de Oriente,John Doe,email@example.com,+503 7000 0000,150
+La Central El Buen Gusto Express,"Tienda de tamaño pequeña, fácil acceso, ubicada en zona comercial, sin estacionamiento.",Residencial Concepción de Oriente,John Doe,email@example.com,+503 7000 0000,150
+Mercadito El Centro Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Conchagua,John Doe,email@example.com,+503 7000 0000,151
+Super El Centro Oeste,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, con poca afluencia de gente.",Residencial Conchagua,John Doe,email@example.com,+503 7000 0000,151
+Punto de Venta Santa Clara Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, con áreas verdes cercanas.",Residencial El Carmen,John Doe,email@example.com,+503 7000 0000,340
+El Rinconcito Los Ángeles Sur,"Tienda de tamaño mediana, acceso restringido, ubicada en zona comercial, con mucha afluencia de gente.",Residencial El Carmen,John Doe,email@example.com,+503 7000 0000,340
+Mercado Local La Fortuna Este,"Tienda de tamaño pequeña, acceso complicado, ubicada en zona residencial, con poca afluencia de gente.",Residencial El Sauce,John Doe,email@example.com,+503 7000 0000,341
+Despensa de Don Juan,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, sin estacionamiento.",Residencial El Sauce,John Doe,email@example.com,+503 7000 0000,341
+El Ahorrador El Rosario Central,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, sin estacionamiento.",Residencial Intipucá,John Doe,email@example.com,+503 7000 0000,342
+La Tiendona El Ahorro Express,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, aislada de otros comercios.",Residencial Intipucá,John Doe,email@example.com,+503 7000 0000,342
+Despensa de Don Juan,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, con amplio estacionamiento.",Residencial La Unión,John Doe,email@example.com,+503 7000 0000,152
+Mercadito Familiar La Unión Sur,"Tienda de tamaño grande, fácil acceso, ubicada en zona comercial, con poca afluencia de gente.",Residencial La Unión,John Doe,email@example.com,+503 7000 0000,152
+Mercado Popular El Ahorro Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con amplio estacionamiento.",Residencial Lislique,John Doe,email@example.com,+503 7000 0000,245
+La Despensa Buen Precio Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en zona comercial, sin estacionamiento.",Residencial Lislique,John Doe,email@example.com,+503 7000 0000,245
+Maxi Despensa,"Tienda de tamaño pequeña, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial Meanguera del Golfo,John Doe,email@example.com,+503 7000 0000,57
+Maxi Despensa,"Tienda de tamaño grande, fácil acceso, ubicada en el centro, aislada de otros comercios.",Residencial Meanguera del Golfo,John Doe,email@example.com,+503 7000 0000,57
+Dollar City,"Tienda de tamaño mediana, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Nueva Esparta,John Doe,email@example.com,+503 7000 0000,459
+Supermercado Los Ángeles Norte,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, con áreas verdes cercanas.",Residencial Nueva Esparta,John Doe,email@example.com,+503 7000 0000,459
+Mercadito Familiar El Rosario Oeste,"Tienda de tamaño grande, acceso complicado, ubicada en la periferia, sin estacionamiento.",Residencial Pasaquina,John Doe,email@example.com,+503 7000 0000,246
+Distribuidora San Jose Del Pueblo,"Tienda de tamaño mediana, acceso restringido, ubicada en el centro, con mucha afluencia de gente.",Residencial Pasaquina,John Doe,email@example.com,+503 7000 0000,246
+Mercadito Familiar Santa Maria Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con poca afluencia de gente.",Residencial Polorós,John Doe,email@example.com,+503 7000 0000,460
+Super Precio Los Primos Norte,"Tienda de tamaño grande, acceso restringido, ubicada en el centro, cerca de otras tiendas.",Residencial Polorós,John Doe,email@example.com,+503 7000 0000,460
+Mercado de la Fe Santa Maria Central,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con poca afluencia de gente.",Residencial San Alejo,John Doe,email@example.com,+503 7000 0000,343
+Mercado de la Fe San Francisco Este,"Tienda de tamaño grande, acceso restringido, ubicada en zona residencial, sin estacionamiento.",Residencial San Alejo,John Doe,email@example.com,+503 7000 0000,343
+El Ahorrador Los Primos Central,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, con áreas verdes cercanas.",Residencial San José,John Doe,email@example.com,+503 7000 0000,153
+La Despensa La Fe Sur,"Tienda de tamaño pequeña, acceso restringido, ubicada en la periferia, con mucha afluencia de gente.",Residencial San José,John Doe,email@example.com,+503 7000 0000,153
+Comercial San Jose Central,"Tienda de tamaño mediana, acceso restringido, ubicada en zona residencial, cerca de otras tiendas.",Residencial Santa Rosa de Lima,John Doe,email@example.com,+503 7000 0000,247
+Tienda San Francisco Del Pueblo,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, con mucha afluencia de gente.",Residencial Santa Rosa de Lima,John Doe,email@example.com,+503 7000 0000,247
+Bodega de Descuentos La Unión Express,"Tienda de tamaño pequeña, acceso complicado, ubicada en la periferia, cerca de otras tiendas.",Residencial Yayantique,John Doe,email@example.com,+503 7000 0000,344
+El Rinconcito Los Ángeles Oeste,"Tienda de tamaño mediana, fácil acceso, ubicada en el centro, cerca de otras tiendas.",Residencial Yayantique,John Doe,email@example.com,+503 7000 0000,344
+Dollar City,"Tienda de tamaño grande, acceso restringido, ubicada en zona comercial, aislada de otros comercios.",Residencial Yucuaiquín,John Doe,email@example.com,+503 7000 0000,461
+Wal-Mart,"Tienda de tamaño mediana, acceso complicado, ubicada en zona comercial, aislada de otros comercios.",Residencial Yucuaiquín,John Doe,email@example.com,+503 7000 0000,461
