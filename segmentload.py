@@ -16,16 +16,17 @@ def load_segments(connection, segment_data):
     try:
         for segment in segment_data:
             query = """
-            INSERT INTO DIANA_SALES_ES.SEGMENTS.SEGMENTS (SEGMENT_NAME, DESCRIPTION)
-            VALUES (%s, %s, %s)
+            INSERT INTO DIANA_SALES_ES.SEGMENTS.SEGMENTS (SEGMENT_ID, SEGMENT_NAME, DESCRIPTION)
+            VALUES (%s, %s, %s)  # Make sure there are three %s placeholders
             """
-            cursor.execute(query, (segment['name'], segment['description']))
+            # Ensure the tuple contains three elements corresponding to the placeholders
+            cursor.execute(query, (segment['id'], segment['name'], segment['description']))
         print("Segments data loaded successfully.")
     except ProgrammingError as e:
         print(f"An error occurred: {e}")
     finally:
         cursor.close()
-
+        
 # Main function to manage the database connection and call the load function
 def main():
     try:
