@@ -3,11 +3,11 @@ from snowflake.connector.errors import ProgrammingError
 
 # Define your segment data
 segments = [
-    {"name": "Diamante", "description": "Clientes más valiosos y estratégicos."},
-    {"name": "Oro", "description": "Clientes importantes con potencial de crecimiento."},
-    {"name": "Plata", "description": "Clientes regulares con compras moderadas."},
-    {"name": "Cobre", "description": "Clientes con menor volumen de compras pero con potencial de desarrollo."},
-    {"name": "Hierro", "description": "Clientes de bajo compromiso actual pero que representan oportunidades de mercado."}
+    {"id": 1, "name": "Diamante", "description": "Clientes más valiosos y estratégicos."},
+    {"id": 2, "name": "Oro", "description": "Clientes importantes con potencial de crecimiento."},
+    {"id": 3, "name": "Plata", "description": "Clientes regulares con compras moderadas."},
+    {"id": 4, "name": "Cobre", "description": "Clientes con menor volumen de compras pero con potencial de desarrollo."},
+    {"id": 5, "name": "Hierro", "description": "Clientes de bajo compromiso actual pero que representan oportunidades de mercado."}
 ]
 
 # Function to insert segment data
@@ -17,7 +17,7 @@ def load_segments(connection, segment_data):
         for segment in segment_data:
             query = """
             INSERT INTO DIANA_SALES_ES.SEGMENTS.SEGMENTS (SEGMENT_NAME, DESCRIPTION)
-            VALUES (%s, %s)
+            VALUES (%s, %s, %s)
             """
             cursor.execute(query, (segment['name'], segment['description']))
         print("Segments data loaded successfully.")
