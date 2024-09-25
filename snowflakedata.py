@@ -9,7 +9,7 @@ def get_snowflake_connection():
         account='nvvmnod-mw08757',
         warehouse='DIANA_DATA_LAKE',
         database='DIANA_SALES_ES',
-        schema='STOREFRONTS'
+        schema='SALES'
     )
 
 # Fetch data from Snowflake using a SQL query
@@ -24,7 +24,7 @@ def fetch_data_from_snowflake(query, conn):
 # Main function to fetch data and store it in a CSV file
 def main():
     # SQL query to fetch the data you want
-    query = "SELECT * FROM STORES LIMIT 1000;"  # Adjust your query as needed
+    query = "SELECT * FROM PRODUCTS LIMIT 1000;"  # Adjust your query as needed
 
     # Get Snowflake connection
     conn = get_snowflake_connection()
