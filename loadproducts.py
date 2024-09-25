@@ -28,12 +28,20 @@ with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
         production_date = row['PRODUCTION_DATE']
         description = row['DESCRIPTION']
 
-        # Insert data into Snowflake
+        # Check if the product already exists in the table
         cur.execute("""
-            INSERT INTO DIANA_SALES_ES.SALES.PRODUCTS
-            (PRODUCT_NAME, PRODUCT_CATEGORY_ID, PRICE, PRODUCTION_DATE, DESCRIPTION)
-            VALUES (%s, %s, %s, %s, %s);
-        """, (product_name, product_category_id, price, production_date, description))
+            SELECT COUNT(*) FROM DIANA_SALES_ES.SALES.PRODUCTS 
+            WHERE PRODUCT_NAME = %s
+        """, (product_name,))
+        result = cur.fetchone()
+
+        # If the product does not exist, insert it into the table
+        if result[0] == 0:
+            cur.execute("""
+                INSERT INTO DIANA_SALES_ES.SALES.PRODUCTS
+                (PRODUCT_NAME, PRODUCT_CATEGORY_ID, PRICE, PRODUCTION_DATE, DESCRIPTION)
+                VALUES (%s, %s, %s, %s, %s);
+            """, (product_name, product_category_id, price, production_date, description))
 
 # Commit changes
 conn.commit()
@@ -42,4 +50,4 @@ conn.commit()
 cur.close()
 conn.close()
 
-print("Data loaded successfully!")
+print("Data loaded successfully without duplicates!")

@@ -20,7 +20,7 @@ def upload_to_snowflake():
 
     try:
         # Load CSV into DataFrame with a progress bar
-        csv_file = '/home/vaamx/Opscale/Demo/Diana/generated_transactions.csv'
+        csv_file = '/home/vaamx/Opscale/Demo/Diana/data_generation/generated_transactions.csv'
         with tqdm(total=100, desc="Loading CSV") as pbar:
             df = pd.read_csv(csv_file)
             pbar.update(100)
