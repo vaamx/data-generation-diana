@@ -1,0 +1,263 @@
+DENSITY_ID,MUNICIPALITY,TOTAL_POPULATION,AREA_SQ_KM,POPULATION_DENSITY
+1,Ahuachapán,110511,43.71,2528.36
+2,Apaneca,8383,95.56,87.72
+101,Atiquizaya,33587,75.88,442.64
+3,Concepción de Ataco,12786,63.88,200.16
+102,El Refugio,8171,24.04,339.87
+4,Guaymango,19037,24.04,791.90
+5,Jujutla,28599,15.23,1878.11
+103,San Francisco Menéndez,42607,87.96,484.41
+104,San Lorenzo,9194,64.10,143.43
+6,San Pedro Puxtla,7773,73.73,105.43
+7,Tacuba,29858,11.85,2519.11
+105,Turín,8997,97.29,92.47
+106,Candelaria de la Frontera,22686,84.92,267.15
+8,Chalchuapa,74038,29.11,2543.34
+9,Coatepeque,36768,26.36,1394.62
+10,El Congo,24219,26.51,913.70
+11,El Porvenir,8232,37.38,220.21
+12,Masahuat,3393,57.23,59.29
+13,Metapán,59004,48.88,1207.24
+14,San Antonio Pajonal,3279,36.21,90.55
+107,San Sebastián Salitrillo,18566,65.07,285.34
+108,Santa Ana,245421,22.55,10881.27
+15,Santa Rosa Guachipilín,4930,36.29,135.84
+16,Santiago de la Frontera,5196,42.97,120.91
+109,Texistepeque,17923,51.05,351.11
+110,Acajutla,52359,80.67,649.09
+111,Armenia,34912,27.97,1248.17
+112,Caluco,9139,56.28,162.38
+113,Cuisnahuat,12676,63.32,200.20
+114,Izalco,70959,14.18,5003.97
+17,Juayúa,24465,64.68,378.25
+115,Nahuizalco,49081,25.35,1936.35
+18,Nahulingo,10417,15.85,657.03
+19,Salcoatitán,5484,95.40,57.48
+116,San Antonio del Monte,26902,96.91,277.61
+20,San Julián,18648,82.76,225.34
+117,Santa Catarina Masahuat,10076,37.42,269.30
+118,Santa Isabel Ishuatán,10241,18.79,545.01
+21,Santo Domingo de Guzmán,7055,71.58,98.56
+119,Sonsonate,71541,49.61,1441.96
+22,Sonzacate,25005,20.98,1191.65
+120,Agua Caliente,8261,54.57,151.39
+121,Arcatao,2946,13.09,224.97
+23,Azacualpa,1136,91.84,12.37
+122,Cancasque,1751,33.29,52.60
+24,Chalatenango,29271,69.63,420.40
+123,Citalá,4164,38.05,109.42
+124,Comalapa,2996,56.81,52.74
+25,Concepción Quezaltepeque,6457,59.20,109.06
+26,Dulce Nombre de Maria,5051,26.64,189.62
+125,El Carrizal,2464,97.26,25.33
+126,El Paraíso,10483,79.76,131.43
+27,La Laguna,3923,94.55,41.49
+127,La Palma,12235,90.53,135.14
+128,La Reina,9525,63.81,149.27
+28,Las Flores,1583,92.97,17.03
+29,Las Vueltas,940,17.96,52.33
+30,Nombre de Jesús,4484,27.64,162.24
+31,Nueva Concepción,28625,14.07,2034.40
+32,Nueva Trinidad,1673,39.28,42.59
+129,Ojos de Agua,3667,44.98,81.52
+130,Potonico,1586,34.42,46.08
+131,San Antonio de la Cruz,1854,84.59,21.92
+132,San Antonio los Ranchos,1619,42.11,38.45
+33,San Fernando,2593,35.28,73.49
+133,San Francisco Lempa,862,58.84,14.65
+34,San Francisco Morazán,3919,22.68,172.77
+35,San Ignacio,8611,82.20,104.76
+36,San Isidro Labrador,2592,16.71,155.12
+37,San Luís del Carmen,1173,98.82,11.87
+134,San Miguel de Mercedes,2487,79.50,31.28
+38,San Rafael,4264,27.88,152.92
+39,Santa Rita,5985,10.50,570.16
+135,Tejutla,13608,83.39,163.18
+136,Antiguo Cuscatlán,33698,73.62,457.75
+40,Chiltiupán,10897,75.61,144.12
+137,Ciudad Arce,60314,79.41,759.49
+41,Colón,96989,16.66,5820.26
+42,Comasagua,11870,42.26,280.87
+43,Huizucar,14465,20.43,708.09
+44,Jayaque,11058,87.68,126.12
+45,Jicalápa,5116,66.10,77.40
+138,La Libertad,35997,39.78,904.88
+139,Nuevo Cuscatlán,6897,15.72,438.73
+46,Quezaltepeque,52643,37.99,1385.76
+47,Sacacoyo,12299,39.27,313.22
+48,San José Villanueva,13576,75.66,179.42
+49,San Juán Opico,74280,67.38,1102.40
+140,San Matías,7314,89.85,81.40
+50,San Pablo Tacachico,20366,52.50,387.93
+141,Santa Tecla,121908,20.76,5871.27
+51,Talnique,8254,74.19,111.25
+142,Tamanique,13544,78.47,172.60
+143,Teotepeque,12320,60.51,203.59
+144,Tepecoyo,14322,79.39,180.41
+52,Zaragoza,22525,54.44,413.75
+53,Aguilares,21267,57.05,372.80
+54,Apopa,131286,48.48,2708.12
+145,Ayutuxtepeque,34710,12.29,2824.77
+55,Cuscatancingo,66400,19.71,3368.81
+56,Delgado,120200,12.83,9369.67
+57,El Paisnal,14551,67.28,216.29
+146,Guazapa,22906,38.29,598.19
+147,Ilopango,103862,55.77,1862.28
+58,Mejicanos,140751,91.68,1535.23
+59,Nejapa,29458,32.44,908.18
+60,Panchimalco,41260,46.93,879.10
+148,Rosario de Mora,11377,78.00,145.86
+149,San Marcos,63209,30.59,2066.20
+150,San Martín,72758,16.93,4298.04
+61,San Salvador,316090,36.08,8761.38
+62,Santiago Texacuangos,19428,24.51,792.66
+151,Santo Tomas,25344,93.67,270.56
+152,Soyapango,241403,82.73,2917.93
+153,Tonacatepeque,90896,67.01,1356.53
+154,Candelaria,10090,88.43,114.10
+63,Cojutepeque,50315,82.33,611.13
+155,El Carmen,13345,26.79,498.11
+64,El Rosario,4220,90.33,46.72
+156,Monte San Juán,10224,58.54,174.65
+157,Oratorio de Concepción,3578,82.67,43.28
+158,San Bartolomé Perulapía,8058,90.65,88.89
+65,San Cristóbal,8316,38.62,215.33
+159,San José Guayabal,9300,19.90,467.23
+160,San Pedro Perulapán,44730,30.51,1465.88
+66,San Rafael Cedros,17069,48.44,352.38
+67,San Ramón,6292,83.62,75.24
+161,Santa Cruz Analquito,2585,87.47,29.55
+68,Santa Cruz Michapa,11790,10.63,1109.57
+162,Suchitoto,24786,55.97,442.87
+69,Tenancingo,6782,47.57,142.58
+70,Cuyultitán,5590,29.99,186.40
+71,El Rosario,16784,20.79,807.39
+72,Jerusalen,2570,40.39,63.64
+73,Mercedes la Ceiba,637,94.86,6.72
+163,Olocuilta,29529,39.09,755.44
+164,Paraíso de Osorio,2727,56.69,48.10
+165,San Antonio Masahuat,4258,73.27,58.11
+166,San Emigdio,2818,42.73,65.95
+74,San Francisco Chinameca,7387,97.46,75.79
+167,San Juan Nonualco,17256,96.62,178.60
+168,San Juan Talpa,7707,32.66,235.97
+75,San Juan Tepezontes,3630,54.75,66.30
+169,San Luís La Herradura,20405,37.08,550.31
+170,San Luís Talpa,21675,35.64,608.24
+76,San Miguel Tepezontes,5084,13.32,381.69
+171,San Pedro Masahuat,25446,64.86,392.32
+77,San Pedro Nonualco,9252,55.24,167.48
+172,San Rafael Obrajuelo,9820,14.63,671.08
+173,Santa Maria Ostuma,5990,35.08,170.76
+78,Santiago Nonualco,39887,91.74,434.76
+174,Tapalhuaca,3809,31.56,120.69
+175,Zacatecoluca,65826,23.04,2856.96
+79,Cinquera,1467,54.05,27.14
+176,Dolores,6347,98.71,64.30
+177,Guacotecti,5550,31.78,174.61
+178,Ilobasco,61510,70.49,872.58
+80,Jutiapa,6584,78.55,83.82
+179,San Isidro,7796,31.39,248.38
+180,Sensuntepeque,40332,75.54,533.92
+181,Tejutepeque,7114,43.10,165.06
+81,Victoria,12626,66.91,188.71
+182,Apastepeque,18342,67.02,273.69
+183,Guadalupe,5486,58.22,94.23
+184,San Cayetano Istepeque,5103,18.13,281.53
+185,San Esteban Catarina,5661,85.18,66.46
+82,San Ildefonso,7799,38.87,200.64
+186,San Lorenzo,6055,26.79,226.05
+83,San Sebastián,14411,13.67,1054.22
+187,San Vicente,53213,63.18,842.24
+188,Santa Clara,5349,70.98,75.36
+84,Santo Domingo,6445,11.49,560.78
+189,Tecoluca,23893,56.09,425.99
+85,Tepetitán,3631,30.38,119.50
+86,Verapaz,6257,68.07,91.93
+87,Alegría,11712,25.69,455.84
+190,Berlín,17787,72.18,246.41
+191,California,2628,44.81,58.65
+88,Concepción Batres,12197,94.31,129.33
+192,El Triunfo,6924,22.38,309.43
+89,Ereguayquin,6119,40.70,150.36
+193,Estanzuelas,9015,20.21,446.01
+194,Jiquilisco,47784,93.22,512.58
+195,Jucuapa,18442,88.96,207.31
+196,Jucuarán,13424,33.21,404.16
+90,Mercedes Umaña,13092,69.40,188.65
+197,Nueva Granada,7451,83.55,89.18
+91,Ozatlán,12443,59.97,207.49
+92,Puerto El Triunfo,16584,57.67,287.57
+93,San Agustín,6518,31.77,205.18
+94,San Buena Ventura,4726,18.38,257.14
+198,San Dionisio,4945,90.75,54.49
+199,San Francisco Javier,5409,91.04,59.41
+95,Santa Elena,17342,66.98,258.92
+96,Santa Maria,10731,40.51,264.88
+200,Santiago de Maria,18201,41.43,439.33
+97,Tecapán,7697,75.34,102.17
+201,Usulután,73064,90.74,805.20
+98,Carolina,8240,89.84,91.72
+99,Chapeltique,10728,80.19,133.78
+202,Chinameca,22311,67.78,329.15
+203,Chirilagua,19984,17.57,1137.23
+204,Ciudad Barrios,24817,24.55,1011.02
+205,Comacarán,3199,90.87,35.20
+206,El Transito,18363,64.58,284.35
+100,Lolotique,14916,10.83,1377.57
+301,Moncagua,22659,19.13,1184.32
+207,Nueva Guadalupe,8905,69.72,127.73
+302,Nuevo Edén de San Juan,4034,10.46,385.82
+208,Quelepa,4049,24.47,165.45
+209,San Antonio,5304,59.39,89.31
+210,San Gerardo,5986,72.27,82.83
+211,San Jorge,9115,68.68,132.72
+303,San Luís de La Reina,5637,30.18,186.75
+304,San Miguel,218410,74.10,2947.66
+212,San Rafael Oriente,13290,31.35,423.89
+213,Sesori,10705,39.29,272.49
+305,Uluazapa,3351,77.18,43.42
+306,Arambala,1821,68.47,26.60
+307,Cacaopera,10943,86.43,126.61
+214,Chilanga,9700,69.19,140.20
+308,Corinto,15410,61.15,252.01
+309,Delicias de Concepción,5076,18.43,275.41
+310,El Divisadero,7617,43.09,176.75
+215,El Rosario,1339,33.87,39.54
+216,Gualococti,3650,31.96,114.21
+217,Guatajiagua,11721,97.57,120.13
+311,Joateca,4210,45.38,92.77
+218,Jocoaitique,2877,90.28,31.87
+312,Jocoro,10060,66.80,150.59
+313,Lolotiquillo,4915,81.53,60.28
+219,Meanguera,7818,55.24,141.53
+220,Osicala,8909,61.92,143.88
+314,Perquín,3158,54.33,58.13
+221,San Carlos,4172,27.57,151.31
+222,San Fernando,1708,75.02,22.77
+223,San Francisco Gotera,21049,35.27,596.80
+224,San Isidro,2804,12.19,230.05
+225,San Simón,10102,68.09,148.36
+315,Sensembra,2940,25.94,113.34
+226,Sociedad,11406,94.64,120.52
+316,Torola,3042,95.85,31.74
+227,Yamabal,4346,92.34,47.07
+228,Yoloaiquín,3613,43.31,83.41
+229,Anamoros,14551,11.39,1277.40
+230,Bolívar,4215,93.55,45.06
+231,Concepción de Oriente,8179,48.54,168.51
+317,Conchagua,37362,97.00,385.18
+318,El Carmen,12324,96.73,127.41
+319,El Sauce,6546,86.77,75.44
+320,Intipucá,7567,36.50,207.31
+321,La Unión,34045,44.66,762.34
+322,Lislique,13385,86.60,154.56
+232,Meanguera del Golfo,2398,38.52,62.25
+233,Nueva Esparta,9637,25.25,381.60
+234,Pasaquina,16375,60.11,272.41
+235,Polorós,9701,94.25,102.92
+323,San Alejo,17598,72.64,242.25
+236,San José,2971,61.31,48.46
+237,Santa Rosa de Lima,27693,18.75,1477.28
+324,Yayantique,6871,65.35,105.14
+325,Yucuaiquín,6799,99.10,68.60

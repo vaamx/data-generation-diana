@@ -1,0 +1,16 @@
+SUBSEGMENT_ID,SEGMENT_ID,SUBSEGMENT_NAME,DESCRIPTION
+1,1,Esmeralda,Highest value clients with exceptional loyalty.
+2,1,Rubí,High spending frequent clients.
+3,1,Zafiro,Loyal and high-value clients.
+4,101,Topacio,Growing clients with significant potential.
+101,101,Citrino,Solid performing clients with good potential.
+102,101,Ámbar,Regular clients on the verge of upgrading.
+5,4,Perla,Stable regular clients with moderate engagement.
+6,4,Ópalo,Occasional clients with specific product loyalty.
+7,4,Turquesa,Low engagement clients with potential for growth.
+103,2,Malaquita,Clients with potential for development.
+8,2,Azurita,Clients influenced by specific campaigns.
+9,2,Jade,Inactive clients who can be reactivated with targeted strategies.
+104,5,Hematita,Price-sensitive clients influenced by competition.
+105,5,Pirita,"Minimal-purchase clients, requiring stimulation for higher engagement."
+106,5,Magnetita,Potential clients yet to be explored.

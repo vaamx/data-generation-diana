@@ -1,0 +1,6 @@
+SEGMENT_ID,SEGMENT_NAME,DESCRIPTION
+1,Diamante,Clientes más valiosos y estratégicos.
+2,Oro,Clientes importantes con potencial de crecimiento.
+101,Plata,Clientes regulares con compras moderadas.
+4,Cobre,Clientes con menor volumen de compras pero con potencial de desarrollo.
+5,Hierro,Clientes de bajo compromiso actual pero que representan oportunidades de mercado.
